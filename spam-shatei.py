@@ -13,6 +13,19 @@ if platform == 'Windows':
 else:
 	os.system('clear')
 
+print(" ____________________________________")
+print(" | ")
+print(" |      \033[33m      ___________ \033[m         ")
+print(" |           \033[33m/SHATEI SPAM\ \033[m")
+print(" |       \033[33m    \___________/ \033[m")
+print(" |       \033[33m     %%%%%%%%%%%	\033[m  ")
+print(" |")
+print(" |            ____________")
+print(" |            \033[41mCODE: Shatei\033[m ")
+print(" |")
+print(" |           _______________")
+print(" |           \033[36mCREDITOS: Shatei\033[m \n")         
+
 print("            SHATEI SPAM")
 print("            code: Shatei")      
 print("            creditos: Shatei")         
