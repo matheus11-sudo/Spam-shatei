@@ -1,3 +1,4 @@
+print("clear")
 import requests
 
 print("            SHATEI SPAM")
