@@ -1,4 +1,18 @@
 import requests
+import os
+import time
+import platform
+from colorama import Fore
+import sys
+import random
+
+latform = platform.system()
+menu = sys.argv[1::]
+
+if platform == 'Windows':
+    os.system('cls')
+else:
+    os.system('clear')
 
 print(" ____________________________________")
 print(" | ")
